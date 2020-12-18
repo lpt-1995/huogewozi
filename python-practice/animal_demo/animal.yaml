@@ -1,0 +1,16 @@
+cat:
+  hair: "短毛"
+  name: "阿花"
+  colour: "黑黄条纹"
+  age: 8
+  sex: "母"
+  skill: "吃老鼠"
+
+dog:
+  hair: "长毛"
+  name: "大黄"
+  colour: "黄色"
+  age: 8
+  sex: "公"
+  skill: "看家门"
+
